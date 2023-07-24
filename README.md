@@ -3,8 +3,6 @@
 The goal here is to make notes of feature engineering concepts, such as:
 -  selecting important features for the model;
 -  finding relationships between features that will be more efficient for the model;
--  mathematical transformation;
--  clustering;
 
 ## The Course
 
